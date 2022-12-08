@@ -1,0 +1,86 @@
+[
+ {
+   "ID": 1,
+   "Nombre": "Goat Simulator 3",
+   "Precio": "29,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S2_1200x1600-99737fa8a749438ca909c776a4cd9b89?h=854&resize=1&w=640",
+   "Descripcion": "¡Pilgor ha vueltoooo! Reúne a tu rebaño y lánzate a la aventura en Goat Simulator 3: una experiencia de campo sandbox multijugador totalmente nueva y realista."
+ },
+ {
+   "ID": 2,
+   "Nombre": "Need for Speed™ Unbound",
+   "Precio": "69,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8?h=854&resize=1&w=640",
+   "Descripcion": "Corre hasta lo más alto, sin llevarte chascos. Supera a la policía y participa en las eliminatorias semanales del Grand, la carrera callejera definitiva. Llena tu garaje de coches personalizados y tuneados con precisión e inunda las calles con tu estilo."
+ },
+ {
+   "ID": 3,
+   "Nombre": "Grand Theft Auto V: Premium Edition",
+   "Precio": "19,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait%20Store%20Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg?h=854&resize=1&w=640",
+   "Descripcion": "Grand Theft Auto V: Premium Edition permite disfrutar por completo de la trama de GTAV y acceder a Grand Theft Auto Online y a todas las mejoras y contenidos existentes. También incluye el Criminal Enterprise Starter Pack, la forma más rápida de dar un impulso a tu imperio criminal en GTA Online."
+ },
+ {
+   "ID": 4,
+   "Nombre": "The Callisto Protocol",
+   "Precio": "59,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c?h=854&resize=1&w=640",
+   "Descripcion": "Sobrevive y escapa de los horrores de Calisto. Con una combinación única de combate cuerpo a cuerpo y a distancia, deberás combatir constantemente a medida que las criaturas evolucionan, además de conseguir nuevas armas y equipo, para huir de la amenaza de la Luna Muerta de Júpiter que se cierne sobre ti."
+ },
+ {
+   "ID": 5,
+   "Nombre": "EA SPORTS™ FIFA 23 Standard Edition",
+   "Precio": "66,90 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S2_1200x1600-fc5180814a7ade91d41b35798579946a?h=854&resize=1&w=640",
+   "Descripcion": "Vive la emoción del mayor torneo futbolístico con EA SPORTS™ FIFA 23 y la actualización de la FIFA World Cup™ masculina, ¡disponible el 9 de noviembre sin coste adicional*!"
+ },
+ {
+   "ID": 6,
+   "Nombre": "Assassin's Creed® Valhalla Standard Edition",
+   "Precio": "59,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC%20KINGDOM%20PREORDER_STANDARD%20EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png?h=854&resize=1&w=640",
+   "Descripcion": "Ponte en la piel de una leyenda vikinga en busca de gloria. Saquea a tus enemigos, haz prosperar tu asentamiento y consolida tu poder político."
+ },
+ {
+   "ID": 7,
+   "Nombre": "Marvel's Spider-Man: Miles Morales",
+   "Precio": "39,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6?h=854&resize=1&w=640",
+   "Descripcion": "El adolescente Miles Morales se adapta a su nuevo barrio al tiempo que sigue los pasos de Peter Parker, su mentor, para convertirse en un nuevo Spider-Man. Cuando la lucha de poderes amenaza con destruir su hogar, Miles debe tomar el relevo de Spider-Man y estar a la altura."
+ },
+ {
+   "ID": 8,
+   "Nombre": "Dead by Daylight",
+   "Precio": "7,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503?h=854&resize=1&w=640",
+   "Descripcion": "Dead by Daylight es un juego de horror de multijugador (4 contra 1) en el que un jugador representa el rol del asesino despiadado y los 4 restantes juegan como supervivientes que intentan escapar de él para evitar ser capturados y asesinados."
+ },
+ {
+   "ID": 9,
+   "Nombre": "Divine Knockout (DKO) -  Founders Edition",
+   "Precio": "9,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-EGS-FoundersPackDLC-DKO-PortraitOfferImage-1200x1600-Logo_1200x1600-a6c4313fb4c8f1e1e1d5b8ff53d30275?h=854&resize=1&w=640",
+   "Descripcion": "¡Deja KO a los dioses en el único juego de combate de plataformas en tercera persona del mundo! Conviértete en un pequeño pero poderoso dios mitológico y elimina a tus amigos del mapa para reinar."
+ },
+ {
+   "ID": 10,
+   "Nombre": "PC Building Simulator 2",
+   "Precio": "9,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/65a9273ec61f4bb6b94461eb1ce8ec23/EGS_PCBuildingSimulator2_SpiralHouseLtd_S2_1200x1600-3bfa92b940eff927686f54848e0a9118?h=854&resize=1&w=640",
+   "Descripcion": "Expande tu imperio aprendiendo a reparar, montar y personalizar ordenadores como todo un profesional. Experimenta una simulación más realista, juega a un modo Carrera mejorado y prueba las nuevas y potentes características disponibles para personalizar tus equipos. Monta el PC de tus sueños con componentes de lo más realista, pertenecientes a más de 40 fabricantes de hardware."
+ },
+ {
+   "ID": 11,
+   "Nombre": "Marvel's Midnight Suns",
+   "Precio": "44,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/offer/ea73c08ac633414584e281f838b3a78c/EGS_MarvelsMidnightSuns_FiraxisGames_S2_1200x1600-2bbbf1249898e7441527c7b5679b1dd2?h=854&resize=1&w=640",
+   "Descripcion": "Enfréntate al lado más oscuro del universo Marvel en un nuevo RPG táctico que incluye a Iron Man, Lobezno, Capitán América, Motorista Fantasma, Blade y muchos más."
+ },
+ {
+   "ID": 12,
+   "Nombre": "theHunter: Call of the Wild™",
+   "Precio": "7,99 US$",
+   "Imagen": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2?h=854&resize=1&w=640",
+   "Descripcion": "Disfruta de un juego de caza con una ambientación sin igual en un mundo abierto realista y visualmente asombroso. Sumérgete en la atmósfera de la campaña individual, o comparte la experiencia de caza definitiva con tus amigos."
+ }
+]
